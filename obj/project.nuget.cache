@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2uwKMEKVLOKaLLJOkaDrEIjknJ/5AbV0hQwFbEulkSLEvS7f+k8+wZNlEQbUJzc9m1fZwWdGX/unUHpO/IJFw==",
+  "dgSpecHash": "cdV5VexPemwYnsz5AIKcuH/fJb83cHvl/oidurkCubXBO54PF1RYugznndTBpHMEJwcMobYmFJMU8aZ2keu8bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaceba\\Desktop\\.NET Core\\RentCore\\RentCore.csproj",
+  "projectFilePath": "C:\\Users\\Kaceba\\Desktop\\RentCoreMVC\\RentCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
