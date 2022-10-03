@@ -7,11 +7,15 @@ public class TipiSpeseService : ITipiSpeseService
     {
         var TipiSpeseList = new List<TipiSpeseViewModel>();
 
-
-
-
-
-
+        for(int i = 1; i < 11; i++)
+        {
+            var TipoSpesa = new TipiSpeseViewModel
+            {
+                Id = i,
+                Descrizione = $"Descrizione {i}"
+            };
+            TipiSpeseList.Add(TipoSpesa);
+        }
 
         return TipiSpeseList;
     }

@@ -16,6 +16,8 @@ public class TipiSpeseController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var TipiSpese = tipiSpeseService.GetTipiSpese();
+        ViewData["Title"] = "Tipi Spese";
+        return View(TipiSpese);
     }
 }
