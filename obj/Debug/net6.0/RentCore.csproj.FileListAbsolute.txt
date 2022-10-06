@@ -1,52 +1,78 @@
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\appsettings.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\RentCore.staticwebassets.runtime.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\RentCore.exe
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\RentCore.deps.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\RentCore.runtimeconfig.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\RentCore.dll
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\bin\Debug\net6.0\RentCore.pdb
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.csproj.AssemblyReference.cache
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.AssemblyInfoInputs.cache
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.AssemblyInfo.cs
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.csproj.CoreCompileInputs.cache
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.RazorAssemblyInfo.cache
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.RazorAssemblyInfo.cs
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\scopedcss\bundle\RentCore.styles.css
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\scopedcss\projectbundle\RentCore.bundle.scp.css
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.dll
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\refint\RentCore.dll
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.pdb
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\RentCore.genruntimeconfig.cache
-C:\Users\Kaceba\Desktop\.NET Core\RentCore\obj\Debug\net6.0\ref\RentCore.dll
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\appsettings.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\RentCore.staticwebassets.runtime.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\RentCore.exe
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\RentCore.deps.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\RentCore.runtimeconfig.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\RentCore.dll
-C:\Users\Kaceba\Desktop\RentCoreMVC\bin\Debug\net6.0\RentCore.pdb
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.csproj.AssemblyReference.cache
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.AssemblyInfoInputs.cache
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.AssemblyInfo.cs
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.csproj.CoreCompileInputs.cache
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.RazorAssemblyInfo.cache
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.RazorAssemblyInfo.cs
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\scopedcss\bundle\RentCore.styles.css
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\scopedcss\projectbundle\RentCore.bundle.scp.css
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.dll
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\refint\RentCore.dll
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.pdb
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\RentCore.genruntimeconfig.cache
-C:\Users\Kaceba\Desktop\RentCoreMVC\obj\Debug\net6.0\ref\RentCore.dll
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/appsettings.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/RentCore.staticwebassets.runtime.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/RentCore.exe
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/RentCore.deps.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/RentCore.runtimeconfig.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/RentCore.dll
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/bin/Debug/net6.0/RentCore.pdb
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.csproj.AssemblyReference.cache
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.AssemblyInfoInputs.cache
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.AssemblyInfo.cs
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.csproj.CoreCompileInputs.cache
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.RazorAssemblyInfo.cache
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.RazorAssemblyInfo.cs
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/scopedcss/bundle/RentCore.styles.css
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/scopedcss/projectbundle/RentCore.bundle.scp.css
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.dll
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/refint/RentCore.dll
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.pdb
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/RentCore.genruntimeconfig.cache
+C:/Users/Kaceba/Desktop/.NET Core/RentCore/obj/Debug/net6.0/ref/RentCore.dll
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/appsettings.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.staticwebassets.runtime.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.exe
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.deps.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.runtimeconfig.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.dll
+C:/Users/Kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.pdb
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.csproj.AssemblyReference.cache
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.AssemblyInfoInputs.cache
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.AssemblyInfo.cs
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.csproj.CoreCompileInputs.cache
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.RazorAssemblyInfo.cache
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.RazorAssemblyInfo.cs
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/scopedcss/bundle/RentCore.styles.css
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/scopedcss/projectbundle/RentCore.bundle.scp.css
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.dll
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/refint/RentCore.dll
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.pdb
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.genruntimeconfig.cache
+C:/Users/Kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/ref/RentCore.dll
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/appsettings.Development.json
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/appsettings.json
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.staticwebassets.runtime.json
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.deps.json
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.runtimeconfig.json
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.dll
+/home/kaceba/Desktop/RentCoreMVC/bin/Debug/net6.0/RentCore.pdb
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.csproj.AssemblyReference.cache
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.AssemblyInfoInputs.cache
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.AssemblyInfo.cs
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.csproj.CoreCompileInputs.cache
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.MvcApplicationPartsAssemblyInfo.cache
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.RazorAssemblyInfo.cache
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.RazorAssemblyInfo.cs
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/staticwebassets.build.json
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/staticwebassets.development.json
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/scopedcss/bundle/RentCore.styles.css
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/scopedcss/projectbundle/RentCore.bundle.scp.css
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.dll
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/refint/RentCore.dll
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.pdb
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/RentCore.genruntimeconfig.cache
+/home/kaceba/Desktop/RentCoreMVC/obj/Debug/net6.0/ref/RentCore.dll
