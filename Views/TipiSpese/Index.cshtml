@@ -1,0 +1,28 @@
+@model List<TipiSpeseViewModel>
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="d-flex justify-content-center">
+    <button type="button">Inserisci</button>
+    <button type="button">Modifica</button>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Descrizione</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (TipiSpeseViewModel TipoSpesa in Model)
+        {
+            <tr>
+                <th scope="row">#@TipoSpesa.Id</th>
+                <td>@TipoSpesa.Descrizione</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
