@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/home/kaceba/Desktop/RentCoreMVC/RentCore.csproj": {}
+    "C:\\Users\\Kaceba\\Desktop\\RentCoreMVC\\RentCore.csproj": {}
   },
   "projects": {
-    "/home/kaceba/Desktop/RentCoreMVC/RentCore.csproj": {
+    "C:\\Users\\Kaceba\\Desktop\\RentCoreMVC\\RentCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kaceba/Desktop/RentCoreMVC/RentCore.csproj",
+        "projectUniqueName": "C:\\Users\\Kaceba\\Desktop\\RentCoreMVC\\RentCore.csproj",
         "projectName": "RentCore",
-        "projectPath": "/home/kaceba/Desktop/RentCoreMVC/RentCore.csproj",
-        "packagesPath": "/home/kaceba/.nuget/packages/",
-        "outputPath": "/home/kaceba/Desktop/RentCoreMVC/obj/",
+        "projectPath": "C:\\Users\\Kaceba\\Desktop\\RentCoreMVC\\RentCore.csproj",
+        "packagesPath": "C:\\Users\\Kaceba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kaceba\\Desktop\\RentCoreMVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/kaceba/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Kaceba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +45,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SQLite": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/kaceba/dotnet6/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
