@@ -27,4 +27,25 @@ public class EfCoreTipiSpeseService : ITipiSpeseService
 
         return TipiSpeseList;
     }
+
+    public void InsertTipoSpesa(string newDescrizione)
+    {
+        TipiSpese tipoSpesa = new TipiSpese();
+
+        tipoSpesa.Descrizione = newDescrizione;
+
+        dbContext.TipiSpeses.Add(tipoSpesa);
+        dbContext.SaveChanges();
+    }
+
+    public void UpdateTipoSpesa(int IdTipoSpesa, string updateDescrizione)
+    {
+        TipiSpese tipoSpesa = new TipiSpese();
+
+        tipoSpesa.IdTipoSpesa = IdTipoSpesa;
+        tipoSpesa.Descrizione = updateDescrizione;
+
+        dbContext.TipiSpeses.Update(tipoSpesa);
+        dbContext.SaveChanges();
+    }
 }
