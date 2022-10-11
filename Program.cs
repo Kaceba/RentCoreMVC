@@ -2,7 +2,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddTransient<ITipiSpeseService, TipiSpeseService>();
+builder.Services.AddTransient<ITipiSpeseService, EfCoreTipiSpeseService>();
+
+builder.Services.AddDbContext<RENTCARdbContext>();
 
 var app = builder.Build();
 
