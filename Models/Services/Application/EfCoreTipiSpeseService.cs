@@ -14,7 +14,7 @@ public class EfCoreTipiSpeseService : ITipiSpeseService
     {
         this.dbContext = dbContext;
     }
-    
+
     public List<TipiSpeseViewModel> GetTipiSpese()
     {
         List<TipiSpeseViewModel> TipiSpeseList = dbContext.TipiSpeses.Select(TipiSpese =>
@@ -32,20 +32,26 @@ public class EfCoreTipiSpeseService : ITipiSpeseService
     {
         TipiSpese tipoSpesa = new TipiSpese();
 
-        tipoSpesa.Descrizione = newDescrizione;
+        using (dbContext)
+        {
+            tipoSpesa.Descrizione = newDescrizione;
 
-        dbContext.TipiSpeses.Add(tipoSpesa);
-        dbContext.SaveChanges();
+            dbContext.TipiSpeses.Add(tipoSpesa);
+            dbContext.SaveChanges();
+        }
     }
 
     public void UpdateTipoSpesa(int IdTipoSpesa, string updateDescrizione)
     {
         TipiSpese tipoSpesa = new TipiSpese();
 
-        tipoSpesa.IdTipoSpesa = IdTipoSpesa;
-        tipoSpesa.Descrizione = updateDescrizione;
+        using (dbContext)
+        {
+            tipoSpesa.IdTipoSpesa = IdTipoSpesa;
+            tipoSpesa.Descrizione = updateDescrizione;
 
-        dbContext.TipiSpeses.Update(tipoSpesa);
-        dbContext.SaveChanges();
+            dbContext.TipiSpeses.Update(tipoSpesa);
+            dbContext.SaveChanges();
+        }
     }
 }
