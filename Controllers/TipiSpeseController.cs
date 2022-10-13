@@ -20,4 +20,14 @@ public class TipiSpeseController : Controller
         ViewData["Title"] = "Tipi Spese";
         return View(TipiSpese);
     }
+
+    public IActionResult Insert()
+    {
+        return View("TipiSpeseInsert");
+    }
+
+    public IActionResult Update()
+    {
+        return View("TipiSpeseUpdate");
+    }
 }

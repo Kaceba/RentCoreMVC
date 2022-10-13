@@ -3,13 +3,14 @@
 <h2>@ViewData["Title"]</h2>
 
 <div class="d-flex justify-content-center">
-    <button type="button">Inserisci</button>
-    <button type="button">Modifica</button>
+    <a type="button" class="btn btn-dark mx-1" asp-controller="TipiSpese" asp-action="Insert">Inserisci</a>
+    <a type="button" class="btn btn-dark mx-1" asp-controller="TipiSpese" asp-action="Update">Modifica</a>
 </div>
 
 <table class="table">
     <thead>
         <tr>
+            <th scope="col"></th>
             <th scope="col">Id</th>
             <th scope="col">Descrizione</th>
         </tr>
@@ -19,7 +20,9 @@
         @foreach (TipiSpeseViewModel TipoSpesa in Model)
         {
             <tr>
-                <th scope="row">#@TipoSpesa.Id</th>
+                @* <th scope="row"><button type="button">Seleziona</button></th> *@
+                <td><button type="button" class="btn btn-dark">Seleziona</button></td>
+                <td>#@TipoSpesa.Id</td>
                 <td>@TipoSpesa.Descrizione</td>
             </tr>
         }
