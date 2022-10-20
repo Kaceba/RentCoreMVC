@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RentCore
 build_property.RootNamespace = RentCore
-build_property.ProjectDir = C:\Users\Kaceba\Desktop\RentCoreMVC\
+build_property.ProjectDir = c:\Users\Kaceba\Desktop\RentCoreMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kaceba\Desktop\RentCoreMVC
+build_property.MSBuildProjectDirectory = c:\Users\Kaceba\Desktop\RentCoreMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/Home/Index.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/Home/Privacy.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/Shared/Error.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/TipiSpese/Index.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/TipiSpese/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwaVNwZXNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/TipiSpese/TipiSpeseInsert.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/TipiSpese/TipiSpeseInsert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwaVNwZXNlXFRpcGlTcGVzZUluc2VydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/TipiSpese/TipiSpeseUpdate.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/TipiSpese/TipiSpeseUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwaVNwZXNlXFRpcGlTcGVzZVVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/User/Login.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/_ViewImports.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/_ViewStart.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kaceba/Desktop/RentCoreMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/Kaceba/Desktop/RentCoreMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5bhm2roxl9
