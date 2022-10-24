@@ -23,7 +23,12 @@ public class TipiSpeseController : Controller
 
     public IActionResult Insert()
     {
-        return View("TipiSpeseInsert");
+        //Son bloccato
+        string Descrizione;
+
+        var TipiSpese = tipiSpeseService.GetTipiSpese();
+        ViewData["Title"] = "Tipi Spese";
+        return View(TipiSpese);
     }
 
     public IActionResult Update()

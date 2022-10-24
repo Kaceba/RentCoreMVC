@@ -3,8 +3,63 @@
 <h2>@ViewData["Title"]</h2>
 
 <div class="d-flex justify-content-center">
-    <a type="button" class="btn btn-dark mx-1" asp-controller="TipiSpese" asp-action="Insert">Inserisci</a>
-    <a type="button" class="btn btn-dark mx-1" asp-controller="TipiSpese" asp-action="Update">Modifica</a>
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-dark mx-1" data-toggle="modal" data-target="#InserisciTipoSpesaModal">
+        Inserisci
+    </button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="InserisciTipoSpesaModal" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Inserisci Tipo Spesa</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    Descrizione
+                    <input type="text" id="Descrizione" name="Descrizione">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Chiudi</button>
+                    <button type="button" class="btn btn-success" asp-controller="TipiSpese" asp-action="Insert">Invia</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-dark mx-1" data-toggle="modal" data-target="#ModificaTipoSpesaModal">
+        Modifica
+    </button>
+
+     <!-- Modal -->
+    <div class="modal fade" id="ModificaTipoSpesaModal" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Modifica Tipo Spesa</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    Descrizione
+                    <input type="text" id="Descrizione" name="Descrizione">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Chiudi</button>
+                    <button type="button" class="btn btn-success">Invia</button>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+
 </div>
 
 <table class="table">
