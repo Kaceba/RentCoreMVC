@@ -26,9 +26,7 @@ public class TipiSpeseController : Controller
         //Son bloccato
         string Descrizione;
 
-        var TipiSpese = tipiSpeseService.GetTipiSpese();
-        ViewData["Title"] = "Tipi Spese";
-        return View(TipiSpese);
+        return Index();
     }
 
     public IActionResult Update()
